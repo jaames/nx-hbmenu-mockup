@@ -5,6 +5,7 @@ An [nx-hbmenu](https://github.com/switchbrew/nx-hbmenu) redesign, aiming to cont
 * [Text](#text)
 * [Colors](#colors)
 * [Assets](#assets)
+* [Icons](#icons)
 * [Wave Effect](#wave-effect)
 * [Todo](#todo)
 
@@ -24,7 +25,7 @@ The intention was for hbl to match the user's current Switch theme, so two (some
 
 ### Layout
 
-UI elements are aligned to a 20x20 pixel grid (the red lines in the below mockup mark 8 grid spaces). The elements in each corner of the screen are given relatively generous margins to avoid [cropping / overscan issues](https://www.engadget.com/2010/05/27/hd-101-overscan-and-why-all-tvs-do-it/) when displayed on TV screens:
+UI elements are aligned to a 20x20 pixel grid (the red lines in the mockups below mark 8 grid spaces). The elements in each corner of the screen are given relatively generous margins to avoid [cropping / overscan issues](https://www.engadget.com/2010/05/27/hd-101-overscan-and-why-all-tvs-do-it/) when displayed on TV screens:
 
 ![grid layout](https://raw.githubusercontent.com/jaames/switch-hbl-mockup/master/guides/grid.png)
 
@@ -58,6 +59,12 @@ As text for convinience:
 Image assets for the hbl logo and various UI elements like shadows, gradients, etc are provided in [`/assets`](https://github.com/jaames/switch-hbl-mockup/tree/master/assets), and are aligned as shown:
 
 ![slices](https://raw.githubusercontent.com/jaames/switch-hbl-mockup/master/guides/slices.png)
+
+### Icons
+
+Homebrew app icons should be *at least* 220x220 px for the large "details" view, but ideally around 300x300 or more to allow for future layouts with larger icons.
+
+List icons are 140x140 and the selected icon is scaled up to 160x160. 
 
 ### Wave Effect
 

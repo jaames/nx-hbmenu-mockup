@@ -14,11 +14,11 @@ Note: the measurements and assets provided assume that the hbl menu will be rend
 
 The intention was for hbl to match the user's current switch theme, so two (somewhat) matching themes are provided:
 
-** Dark theme **
+**Dark theme**
 
 ![dark theme](https://raw.githubusercontent.com/jaames/switch-hbl-mockup/master/mockups/dark/inline.png)
 
-** Light theme **
+**Light theme**
 
 ![light theme](https://raw.githubusercontent.com/jaames/switch-hbl-mockup/master/mockups/light/inline.png)
 

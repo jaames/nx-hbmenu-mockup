@@ -39,8 +39,6 @@ Besides the "hbmenu" logo, all text use the open-source [Inter UI](https://githu
 
 ![text layout](https://raw.githubusercontent.com/jaames/switch-hbl-mockup/master/guides/text.png)
 
-The "hbmenu" logo text is custom and will be available in SVG format once it has been finalised :)
-
 ### Colors
 
 | Dark Theme | Light Theme |
@@ -58,7 +56,7 @@ As text for convinience:
 Image assets for the hbmenu logo, icons, and various UI elements like shadows, gradients, etc are provided in [`/assets`](https://github.com/jaames/switch-hbl-mockup/tree/master/assets). UI elements are aligned as shown:
 
 ![slices](https://raw.githubusercontent.com/jaames/switch-hbl-mockup/master/guides/slices.png)
-h
+
 ### Wave Effect
 
 The wave motion should be *extremely* subtle and calm, with maxiumum wave amplitude being no higher than ~8px or so. Otherwise it may be too distracting (and cause motion sickness :P).

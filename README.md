@@ -16,17 +16,17 @@ The intention was for hbmenu to match the user's current Switch theme, so two (s
 
 **Dark Theme**
 
-![dark theme](https://raw.githubusercontent.com/jaames/switch-hbl-mockup/master/mockups/dark/inline.png)
+![dark theme](https://raw.githubusercontent.com/jaames/nx-hbmenu-mockup/master/mockups/dark/inline.png)
 
 **Light Theme**
 
-![light theme](https://raw.githubusercontent.com/jaames/switch-hbl-mockup/master/mockups/light/inline.png)
+![light theme](https://raw.githubusercontent.com/jaames/nx-hbmenu-mockup/master/mockups/light/inline.png)
 
 ### Layout
 
 UI elements are aligned to a 20x20 pixel grid (the red lines in the mockups below mark 8 grid spaces). The elements in each corner of the screen are given relatively generous margins to avoid [cropping / overscan issues](https://www.engadget.com/2010/05/27/hd-101-overscan-and-why-all-tvs-do-it/) when displayed on TV screens:
 
-![grid layout](https://raw.githubusercontent.com/jaames/switch-hbl-mockup/master/guides/grid.png)
+![grid layout](https://raw.githubusercontent.com/jaames/nx-hbmenu-mockup/master/guides/grid.png)
 
 ### Text
 
@@ -37,13 +37,13 @@ Besides the "hbmenu" logo, all text use the open-source [Inter UI](https://githu
 * **24px regular** - main text, used for the app description
 * **20px regular** - secondary information, like the version string and app author / size
 
-![text layout](https://raw.githubusercontent.com/jaames/switch-hbl-mockup/master/guides/text.png)
+![text layout](https://raw.githubusercontent.com/jaames/nx-hbmenu-mockup/master/guides/text.png)
 
 ### Colors
 
 | Dark Theme | Light Theme |
 |:-|:-|
-|![dark theme swatch](https://raw.githubusercontent.com/jaames/switch-hbl-mockup/master/guides/swatches/dark.png)| ![light theme swatch](https://raw.githubusercontent.com/jaames/switch-hbl-mockup/master/guides/swatches/light.png) |
+|![dark theme swatch](https://raw.githubusercontent.com/jaames/nx-hbmenu-mockup/master/guides/swatches/dark.png)| ![light theme swatch](https://raw.githubusercontent.com/jaames/nx-hbmenu-mockup/master/guides/swatches/light.png) |
 
 As text for convinience:
  
@@ -55,7 +55,7 @@ As text for convinience:
 
 Image assets for the hbmenu logo, icons, and various UI elements like shadows, gradients, etc are provided in [`/assets`](https://github.com/jaames/switch-hbl-mockup/tree/master/assets). UI elements are aligned as shown:
 
-![slices](https://raw.githubusercontent.com/jaames/switch-hbl-mockup/master/guides/slices.png)
+![slices](https://raw.githubusercontent.com/jaames/nx-hbmenu-mockup/master/guides/slices.png)
 
 ### Wave Effect
 
@@ -65,7 +65,7 @@ In total there are 4 wave layers, with the order of `primary color`, `primary sh
 
 The lower 180px of the wave fades into a slighty deeper color (`wave gradient` in the color swatches). This is to both give the "water" a sense of depth and to ensure that the lower text is readable:
 
-![wave](https://raw.githubusercontent.com/jaames/switch-hbl-mockup/master/guides/wave.png)
+![wave](https://raw.githubusercontent.com/jaames/nx-hbmenu-mockup/master/guides/wave.png)
 
 ### Todo
 

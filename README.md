@@ -1,4 +1,4 @@
-An [nx-hbmenu](https://github.com/switchbrew/nx-hbmenu) redesign, aiming to continue the "ocean" trend of previous homebrew launchers while also incorporating the modern, minimalist feel of the Nintendo Switch system UI.
+An [nx-hbmenu](https://github.com/switchbrew/nx-hbmenu) redesign, aiming to continue the "ocean" trend of previous homebrew launchers while also incorporating the modern, minimalist feel of the Nintendo Switch system UI. Most of these designs were incorporated into nx-hbmenu as of [v2.0.0](https://twitter.com/ylws8/status/968889620917256192)
 
 * [Themes](#themes)
 * [Layout](#layout)
